@@ -5,6 +5,9 @@
 .vernagir2{
 	text-align: center;
 }
+.accaunt{
+	margin-left: 55px;
+}
 @media only screen and (max-width: 896px) {
   .nkar {
     display: none;
@@ -20,3 +23,9 @@
   }
 }
 
+@media only screen and (max-width: 755px) {
+
+  .accaunt{
+  	margin-left: 25px;
+  }
+}
